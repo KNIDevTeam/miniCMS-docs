@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Podstawy
 taxonomy:
     category: docs
 child_type: docs
